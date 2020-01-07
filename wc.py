@@ -1,6 +1,11 @@
 from pyspark.conf import SparkConf
 from pyspark.context import SparkContext
 
+
+def fun1():
+    pass
+
+
 if __name__ == '__main__':
     conf = SparkConf()
     conf.setMaster("local").setAppName("wc")
