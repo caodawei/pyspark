@@ -2,7 +2,7 @@ from pyspark.conf import SparkConf
 from pyspark.context import SparkContext
 
 
-def fun1():
+def fun2():
     pass
 
 
