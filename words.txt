@@ -1,0 +1,4 @@
+tom mary smith tom
+hello hadoop hbase mary hello
+smith hadoop hive
+john mary tom white
